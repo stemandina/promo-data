@@ -1,10 +1,31 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/stefano/aesthetica/main/promo-data/promo1.jpg",
-    "text": "PACCHETTO\n3 MASSAGGI -30%"
+    "titolo": "PACCHETTO 3 MASSAGGI -30%",
+    "descrizione": "3 sedute da 30 minuti a 84€ invece di 120€",
+    "immagine": "https://raw.githubusercontent.com/stefano/aesthetica/main/promo-data/promo-data/body_16.9.jpg",
+    "link": "https://py.pl/FUotX"
   },
   {
-    "image": "https://raw.githubusercontent.com/stefano/aesthetica/main/promo-data/promo2.jpg",
-    "text": "MANI&PIEDI\nSCONTO 15%"
+    "titolo": "MANI&PIEDI SCONTATO DEL 15%",
+    "descrizione": "Manicure + Pedicure a 44€ invece di 53€",
+    "immagine": "https://raw.githubusercontent.com/stefano/aesthetica/main/promo-data/promo-data/manipiedi_16.9.jpg",
+    "link": "https://py.pl/1MYr7i"
+  },
+  {
+    "titolo": "SCRUB CORPO -35%",
+    "descrizione": "3 sedute di Scrub Corpo a 97€ invece di 150€",
+    "immagine": "https://raw.githubusercontent.com/stefano/aesthetica/main/promo-data/promo-data/massaggiescrub.jpg",
+    "link": "https://py.pl/KkYQYo94ZS"
+  },
+  {
+    "titolo": "CERETTA BRASILIANA",
+    "descrizione": "Al prezzo di quella normale!\nAd esempio inguine totale a 16€ invece di 21",
+    "immagine": "https://raw.githubusercontent.com/stefano/aesthetica/main/promo-data/promo-data/brasiliana.jpg"
+  },
+  {
+    "titolo": "PROMO NUOVA APP",
+    "descrizione": "Pulizia viso a 29€ per un tempo limitato",
+    "immagine": "https://raw.githubusercontent.com/stefano/aesthetica/main/promo-data/promo-data/promoapp.jpg",
+    "link": "https://py.pl/1HPV3a"
   }
 ]
