@@ -1,26 +1,13 @@
 [
   {
-    "titolo": "PACCHETTO 3 MASSAGGI -30%",
-    "descrizione": "3 sedute da 30 minuti a 84€ invece di 120€",
-    "immagine": "https://raw.githubusercontent.com/stemandina/promo-data/main/assets/body_16.9.jpg",
-    "link": "https://py.pl/FUotX"
+    "titolo": "OTTOBRE IN FESTA",
+    "descrizione": "3+1 su tanti trattamenti\nviso e corpo\nchiedici quali!",
+    "immagine": "https://raw.githubusercontent.com/stemandina/promo-data/main/assets/ottobreinfesta.jpg"
   },
   {
-    "titolo": "MANI&PIEDI SCONTATO DEL 15%",
-    "descrizione": "Manicure + Pedicure a 44€ invece di 53€",
-    "immagine": "https://raw.githubusercontent.com/stemandina/promo-data/main/assets/manipiedi_16.9.jpg",
-    "link": "https://py.pl/1MYr7i"
-  },
-  {
-    "titolo": "SCRUB CORPO -35%",
-    "descrizione": "3 sedute di Scrub Corpo a 97€ invece di 150€",
-    "immagine": "https://raw.githubusercontent.com/stemandina/promo-data/main/assets/massaggiescrub.jpg",
-    "link": "https://py.pl/KkYQYo94ZS"
-  },
-  {
-    "titolo": "CERETTA BRASILIANA",
-    "descrizione": "Al prezzo di quella normale!\nAd esempio inguine totale a 16€ invece di 21",
-    "immagine": "https://raw.githubusercontent.com/stemandina/promo-data/main/assets/brasiliana.jpg"
+    "titolo": "NOVITÀ VISO",
+    "descrizione": "è il momento di usarla\nper tutti i tipi di pelle\nper la tua beauty routine. €20",
+    "immagine": "https://raw.githubusercontent.com/stemandina/promo-data/main/assets/face_cream.jpg"
   },
   {
     "titolo": "PROMO NUOVA APP",
@@ -29,3 +16,4 @@
     "link": "https://py.pl/1HPV3a"
   }
 ]
+
